@@ -1,0 +1,4 @@
+pointer_basics.c
+│   ├── pointer_arrays.c
+│   ├── pointer_functions.c
+│   └── dynamic_memory.c
